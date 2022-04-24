@@ -14,7 +14,7 @@ body {
 }
 
 .bg {
-    background: url("/IMG_20220425_041044.jpg") no-repeat center/cover;
+    background: url("IMG_20220425_041044.jpg") no-repeat center/cover;
     position: absolute;
     top: -30px;
     left: -30px;
